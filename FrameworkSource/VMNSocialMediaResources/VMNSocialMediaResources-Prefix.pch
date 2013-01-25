@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'VMNSocialMediaResources' target in the 'VMNSocialMediaResources' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-#endif
