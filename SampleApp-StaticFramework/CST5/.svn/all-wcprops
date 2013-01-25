@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/mobileapps/!svn/ver/19704/iOS/cst5-sdk-demo/xcode/CST5
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mobileapps/!svn/ver/19617/iOS/cst5-sdk-demo/xcode/CST5/main.m
+END
+UI_iPhone.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mobileapps/!svn/ver/19702/iOS/cst5-sdk-demo/xcode/CST5/UI_iPhone.xib
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mobileapps/!svn/ver/19617/iOS/cst5-sdk-demo/xcode/CST5/AppDelegate.h
+END
+CST5-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mobileapps/!svn/ver/19625/iOS/cst5-sdk-demo/xcode/CST5/CST5-Info.plist
+END
+ViewController_iPhone.xib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mobileapps/!svn/ver/19617/iOS/cst5-sdk-demo/xcode/CST5/ViewController_iPhone.xib
+END
+CST5-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mobileapps/!svn/ver/19617/iOS/cst5-sdk-demo/xcode/CST5/CST5-Prefix.pch
+END
+ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mobileapps/!svn/ver/19703/iOS/cst5-sdk-demo/xcode/CST5/ViewController.h
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mobileapps/!svn/ver/19761/iOS/cst5-sdk-demo/xcode/CST5/AppDelegate.m
+END
+ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mobileapps/!svn/ver/19761/iOS/cst5-sdk-demo/xcode/CST5/ViewController.m
+END
+UI_iPad.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mobileapps/!svn/ver/19701/iOS/cst5-sdk-demo/xcode/CST5/UI_iPad.xib
+END
+ViewController_iPad.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mobileapps/!svn/ver/19617/iOS/cst5-sdk-demo/xcode/CST5/ViewController_iPad.xib
+END

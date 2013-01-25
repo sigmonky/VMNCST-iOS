@@ -1,0 +1,9 @@
+.DS_Store
+*.pbxuser
+Debug/
+Release/
+Distribution/
+build/
+xcuserdata/
+*.xcworkspace/
+

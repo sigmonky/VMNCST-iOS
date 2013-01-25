@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib
+END
+PKAppInfoParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKAppInfoParser.m
+END
+PKDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKDownloader.h
+END
+PKAppInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKAppInfo.m
+END
+PKDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKDownloader.m
+END
+PKAppDetection.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKAppDetection.m
+END
+PKBaseTaskManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKBaseTaskManager.h
+END
+PKAppInfoParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKAppInfoParser.h
+END
+PKBaseTaskManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mobileapps/!svn/ver/18366/iOS/Cross_Selling_Tool/cst5/trunk/xcode/CST5/CSTLib/lib/PKBaseTaskManager.m
+END

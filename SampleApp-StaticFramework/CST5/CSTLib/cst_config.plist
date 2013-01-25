@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backgroundImage</key>
+	<string>headerBackground.png</string>
+	<key>logoImage</key>
+	<string>nick_logo.png</string>
+	<key>closeButtonImage</key>
+	<string>close_btn.png</string>
+	<key>appName</key>
+	<string>whitelabel</string>
+</dict>
+</plist>
